@@ -6,7 +6,7 @@
       {"Name": "Sterling Archer", "time":"8:00AM", "Kind":"New Patient", "ID":"1"},
       {"Name": "Cyril Figis", "time":"8:30AM", "Kind":"Follow-up", "ID":"2"},
       {"Name": "Ray Gillete", "time":"9:00AM", "Kind":"Follow-Up", "ID":"3"},
-      {"Name": "Pam Poovey", "time": "10:00AM", "Kind":"New Patient", "ID":"3"}
+      {"Name": "Pam Poovey", "time": "10:00AM", "Kind":"New Patient", "ID":"4"}
     ]
   },
   "2": {
